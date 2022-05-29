@@ -1,0 +1,156 @@
+.nav-item {
+    margin-left: 40px;
+}
+.navbar-light {
+    background-color: white;
+    margin-bottom: 2%;
+}
+.navbar-brand {
+    font-family: 'Inconsolata', monospace;
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: chartreuse;
+}
+.trl {
+    height: auto;
+    width: 100%;
+}
+.flexB {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.item {
+    height: 400px;
+    width: 300px;
+    margin: 100px;
+    padding-top: 0;
+    align-items: center;
+    border: black 2px solid;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.boom {
+    width: 280px;
+    height: 40px;
+    background-color: rgb(0, 255, 0);
+    border-color: black;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 5%;
+}
+div {
+    display: block;
+}
+.klk {
+    width: 100%;
+    background-color: rgb(214, 214, 214);
+    text-align: center;
+}
+.form-control_me-2 {
+    width: 20%;
+}
+.res {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 32%;
+    display: inline-block;
+    margin: 0;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+.nav-item {
+    margin-left: 40px;
+}
+.navbar-light {
+    background-color: white;
+    margin-bottom: 2%;
+}
+.navbar-brand {
+    font-family: 'Inconsolata', monospace;
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: chartreuse;
+}
+.trl {
+    height: auto;
+    width: 100%;
+}
+.flexB {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.item {
+    height: 400px;
+    width: 300px;
+    margin: 100px;
+    padding-top: 0;
+    align-items: center;
+    border: black 2px solid;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.boom {
+    width: 280px;
+    height: 40px;
+    background-color: rgb(0, 255, 0);
+    border-color: black;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 5%;
+}
+div {
+    display: block;
+}
+.klk {
+    width: 100%;
+    background-color: rgb(214, 214, 214);
+    text-align: center;
+}
+.form-control_me-2 {
+    width: 20%;
+}
+.res {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 32%;
+    display: inline-block;
+    margin: 0;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+.lol {
+    height: 200px;
+    width: 200px;
+}
